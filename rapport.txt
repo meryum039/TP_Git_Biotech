@@ -4,3 +4,6 @@ GitHub permet de stocker et partager les projets en ligne.
 Au cours de ce TP, j'ai appris à créer un dépôt GitHub et à le cloner dans Google Colab.
 J'ai également appris à ajouter des fichiers, réaliser un commit et envoyer les modifications vers GitHub.
 Git facilite ainsi l'organisation et le suivi du travail sur un projet.
+
+
+Projet personnel : Mon projet personnel pourrait porter sur l'étude des effets des substances toxiques sur l'environnement et la santé. Git me permettrait de versionner les données, les analyses et les différentes étapes de mon projet.
