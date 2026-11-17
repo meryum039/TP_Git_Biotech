@@ -3,4 +3,4 @@ Il est utile pour conserver l'historique des différentes versions des fichiers.
 GitHub permet de stocker et partager les projets en ligne.
 Au cours de ce TP, j'ai appris à créer un dépôt GitHub et à le cloner dans Google Colab.
 J'ai également appris à ajouter des fichiers, réaliser un commit et envoyer les modifications vers GitHub.
-Git facilite l'organisation et le suivi du travail sur un projet.
+Git facilite ainsi l'organisation et le suivi du travail sur un projet.
